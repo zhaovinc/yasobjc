@@ -1,4 +1,4 @@
-Yasobjc is a tool for yasnippet snippet generation for cocoa standard library.
+Yasobjc is a tool for yasnippet snippet generation for objective-c library (cocoa/iphone SDK).
 
 Basic Usage: yasobjc.rb -o DIR file1 file2 ...
 
